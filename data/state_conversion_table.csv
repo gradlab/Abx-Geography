@@ -1,0 +1,85 @@
+State,Standard,Postal,HHS code,Region,state_fips,Region_new
+Illinois,Ill.,IL,5,Mid/Mountain West,17,Midwest
+Indiana,Ind.,IN,5,Mid/Mountain West,18,Midwest
+Michigan,Mich.,MI,5,Mid/Mountain West,26,Midwest
+Minnesota,Minn.,MN,5,Mid/Mountain West,27,Midwest
+Ohio,Ohio,OH,5,Mid/Mountain West,39,Midwest
+Wisconsin,Wis.,WI,5,Mid/Mountain West,55,Midwest
+Iowa,Iowa,IA,7,Mid/Mountain West,19,Midwest
+Kansas,Kan.,KS,7,Mid/Mountain West,20,Midwest
+Missouri,Mo.,MO,7,Mid/Mountain West,29,Midwest
+Nebraska,Neb.,NE,7,Mid/Mountain West,31,Midwest
+North Dakota,N.D.,ND,8,Mid/Mountain West,38,Midwest
+South Dakota,S.D.,SD,8,Mid/Mountain West,46,Midwest
+Connecticut,Conn.,CT,1,Northeast,9,Northeast
+Maine,Maine,ME,1,Northeast,23,Northeast
+Massachusetts,Mass.,MA,1,Northeast,25,Northeast
+New Hampshire,N.H.,NH,1,Northeast,33,Northeast
+Rhode Island,R.I.,RI,1,Northeast,44,Northeast
+Vermont,Vt.,VT,1,Northeast,50,Northeast
+New Jersey,N.J.,NJ,2,Northeast,34,Northeast
+New York,N.Y.,NY,2,Northeast,36,Northeast
+Puerto Rico,P.R.,PR,2,Northeast,72,Northeast
+Pennsylvania,Pa.,PA,3,Northeast,42,Northeast
+Virgin Islands,V.I.,VI,2,Northeast,78,South
+Delaware,Del.,DE,3,Northeast,10,South
+District of Columbia,D.C.,DC,3,Northeast,11,South
+Maryland,Md.,MD,3,Northeast,24,South
+Virginia,Va.,VA,3,Northeast,51,South
+West Virginia,W.Va.,WV,3,Northeast,54,South
+Alabama,Ala.,AL,4,South,1,South
+Florida,Fla.,FL,4,South,12,South
+Georgia,Ga.,GA,4,South,13,South
+Kentucky,Ky.,KY,4,South,21,South
+Mississippi,Miss.,MS,4,South,28,South
+North Carolina,N.C.,NC,4,South,37,South
+South Carolina,S.C.,SC,4,South,45,South
+Tennessee,Tenn.,TN,4,South,47,South
+Arkansas,Ark.,AR,6,South,5,South
+Louisiana,La.,LA,6,South,22,South
+Oklahoma,Okla.,OK,6,South,40,South
+Texas,Texas,TX,6,South,48,South
+New Mexico,N.M.,NM,6,South,35,West
+Colorado,Colo.,CO,8,Mid/Mountain West,8,West
+Montana,Mont.,MT,8,Mid/Mountain West,30,West
+Utah,Utah,UT,8,Mid/Mountain West,49,West
+Wyoming,Wyo.,WY,8,Mid/Mountain West,56,West
+Arizona,Ariz.,AZ,9,Pacific West,4,West
+California,Calif.,CA,9,Pacific West,6,West
+Hawaii,Hawaii,HI,9,Pacific West,15,West
+Nevada,Nev.,NV,9,Pacific West,32,West
+Alaska,Alaska,AK,10,Pacific West,2,West
+Idaho,Idaho,ID,10,Pacific West,16,West
+Oregon,Ore.,OR,10,Pacific West,41,West
+Washington,Wash.,WA,10,Pacific West,53,West
+,,NC-SC,,South,,South
+,,IL-IN-WI,,Mid/Mountain West,,Midwest
+,,OH-KY-IN,,Mid/Mountain West,,Midwest
+,,NH-VT,,Northeast,,Northeast
+,,MN-WI,,Mid/Mountain West,,Midwest
+,,ND-MN,,Mid/Mountain West,,Midwest
+,,AR-MO,,South,,South
+,,MD-WV,,Northeast,,South
+,,WV-KY-OH,,Northeast,,South
+,,MO-KS,,Mid/Mountain West,,Midwest
+,,TN-VA,,South,,South
+,,UT-ID,,Mid/Mountain West,,West
+,,KY-IN,,South,,South
+,,TN-MS-AR,,South,,South
+,,SC-NC,,South,,South
+,,NJ-PA,,Northeast,,Northeast
+,,NY-NJ,,Northeast,,Northeast
+,,NE-IA,,Mid/Mountain West,,Midwest
+,,OR-WA,,Pacific West,,West
+,,RI-MA,,Northeast,,Northeast
+,,MO-IL,,Mid/Mountain West,,Midwest
+,,MD-DE,,Northeast,,South
+,,IA-NE-SD,,Mid/Mountain West,,Midwest
+,,VA-NC,,Northeast,,South
+,,DC-VA-MD-WV,,Northeast,,South
+,,DE-MD-NJ,,Northeast,,South
+,,MA-CT,,Northeast,,Northeast
+,,TN-GA,,South,,South
+,,IN-KY,,Mid/Mountain West,,Midwest
+,,IN-MI,,Mid/Mountain West,,Midwest
+,,OH-PA,,Mid/Mountain West,,Midwest
